@@ -4,7 +4,7 @@
   <a href="https://github.com/dairefinn"><img src="https://visitor-badge.laobi.icu/badge?page_id=dairefinn.dairefinn"/></a>
 </h1>
 
-<p>I'm a software developer based in Mayo, Ireland working in many different languages and subjects. I previously worked at Frankli as a Senior Software Developer. I'm a big nerd.</p>
+<p>I'm a software developer based in Mayo, Ireland working in many different languages and subjects. I am currently working as a Software Engineer at Tines and previously worked at Frankli as a Senior Software Developer. I'm a big nerd.</p>
 
 <hr/>
 <div align="center">
