@@ -16,7 +16,5 @@
 </div>
 
 <div align="center">
-<!--    <img height=200 src="https://github-readme-streak-stats.herokuapp.com?user=dairefinn&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub Streak" /> -->
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dairefinn&langs_count=12&hide_progress=true&theme=aura&hide_border=true" alt="My GitHub languages" />
-<!--   <div><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dairefinn&show_icons=true&theme=aura&hide_border=true" alt="My GitHub stats" /></div> -->
+  <img height=200 src="https://github-stats-extended.vercel.app/api/top-langs?username=dairefinn&layout=compact&hide_progress=false&langs_count=12&disable_animations=true&theme=aura" alt="My GitHub languages" />
 </div>
